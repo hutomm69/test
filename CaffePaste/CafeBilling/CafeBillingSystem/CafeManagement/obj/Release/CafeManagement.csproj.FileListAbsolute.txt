@@ -1,0 +1,89 @@
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe.config
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.pdb
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.AssemblyReference.cache
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Form1.resources
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Properties.Resources.resources
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.GenerateResource.cache
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.exe
+C:\Users\lenov\Desktop\CafeBillingSystem\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.pdb
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe.config
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.pdb
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.AssemblyReference.cache
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.SuggestedBindingRedirects.cache
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Form1.resources
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Properties.Resources.resources
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.GenerateResource.cache
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.CoreCompileInputs.cache
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.exe
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.pdb
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.login.resources
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\BouncyCastle.Crypto.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\EntityFramework.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\EntityFramework.SqlServer.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\Google.Protobuf.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\K4os.Compression.LZ4.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\K4os.Hash.xxHash.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\MySql.Data.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\System.Buffers.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\System.Memory.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\System.Numerics.Vectors.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\ZstdNet.dll
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\BouncyCastle.Crypto.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\EntityFramework.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\EntityFramework.SqlServer.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\Google.Protobuf.pdb
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\Google.Protobuf.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\K4os.Compression.LZ4.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\K4os.Hash.xxHash.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\MySql.Data.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\System.Buffers.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\System.Memory.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\System.Numerics.Vectors.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\FP pemrog\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.CopyComplete
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe.config
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.pdb
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\BouncyCastle.Crypto.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\EntityFramework.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\EntityFramework.SqlServer.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\Google.Protobuf.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\K4os.Compression.LZ4.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\K4os.Hash.xxHash.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\MySql.Data.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\System.Buffers.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\System.Memory.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\System.Numerics.Vectors.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\ZstdNet.dll
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\BouncyCastle.Crypto.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\EntityFramework.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\EntityFramework.SqlServer.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\Google.Protobuf.pdb
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\Google.Protobuf.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\K4os.Compression.LZ4.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\K4os.Hash.xxHash.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\MySql.Data.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\System.Buffers.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\System.Memory.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\System.Numerics.Vectors.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.AssemblyReference.cache
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.SuggestedBindingRedirects.cache
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Form1.resources
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.login.resources
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Properties.Resources.resources
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.GenerateResource.cache
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.CoreCompileInputs.cache
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.CopyComplete
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.exe
+D:\CafeBilling\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.pdb
